@@ -55,6 +55,7 @@
             "1password-cli",
             "espanso",                       # Text expander
             "font-departure-mono",
+            "font-fira-code",
             "font-jetbrains-mono-nerd-font",
             "font-meslo-lg-dz",
             "font-meslo-lg-nerd-font",
@@ -178,10 +179,10 @@
         apps = []
     [packages.mas.personal_computer]
         apps = [
-            "1091189122", # Bear
-            "1136220934", # Infuse
-            "1502839586", # Handmirror
-            "1532597159", # MP3tag
-            "696977615",  # Capo
-            "975937182",  # Fantastical
+            # "1091189122", # Bear
+            # "1136220934", # Infuse
+            # "1502839586", # Handmirror
+            # "1532597159", # MP3tag
+            # "696977615",  # Capo
+            # "975937182",  # Fantastical
         ]
